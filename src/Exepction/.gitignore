@@ -1,0 +1,4 @@
+/BadInputException.class
+/CantRemoveAnswerException.class
+/WrongQuestionException.class
+/WrongQuestionTypeException.class
